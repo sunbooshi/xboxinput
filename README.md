@@ -5,7 +5,7 @@ Because RaspberryPi already support Xbox gamepad, XboxIput just reads from `/dev
 
 Look into xbox.c and xboxinput.py for how to use.
 
-
+------
 
 XboxInput是一个用于在树莓派或者其它派获取Xbox手柄事件的库，包含了C和Python代码，非常容易使用。
 
